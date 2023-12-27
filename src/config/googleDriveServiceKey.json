@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "goglobal-backup-and-upload",
+    "private_key_id": "b8fd3a84a3888d69cc969d295b6506bbd38df596",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNwXHbu8CrRVuo\nus3D0jVuoUIOAV4NgpRV7B2bAAXqkDo1U8t7JwgnBuvirS8LTmBfP1TX8rxI/IJL\n0ItC8QnzyyRWqNH0yiDkQK8xcyC7H9xsRS8Q4LY8dnEoEXGCs9gyWLTpzonTy0v8\nKtg3cmXn2Fo8of2GzQJIzD/0CVq1nLKAKutf3izUJ/CLs232ot+Kl+TOy0pSXODo\naa/GdIYAPVaJy2Jrh/XuqiNQo8G8tlV6sBO4vuzUxj0leb7sCLXDjONdAEt5GAza\n3/OCt5ddNnAry236vybLsv95ETP/i29ASyPrZZyFezJU4S7dbVNe9OmuiGBeZLcw\nXXIiukZ1AgMBAAECggEAA6f5FB8LOEMYf9BOXGxiRWFWSUwf0qyI4owtf3+NDo/t\nbnan3wjNX1VczWLN7lnAPFkL/470gEIdnGeSUSHaDyvpxqQ9bNsUCAvlNEMxm1mg\nb7t8yV3XQMF+PVvH/e5Tr5tXbAmSD4JYivY48HOwmPs4qUSooTCITQJbul3ZliOj\nq688v0jdmbRyazyltDn41bIKe9lTD95e9/CAqvbuvALHPlMydyRaaLcPBH1p1Cng\nL8R4MkTV6J9BhIHUGFq/7avCFJ32hl2Oh8mVEmv3llUxbg4/hsc+5wk2bWbDCq3V\nKJWj+nWIC9bBhO15upDfoYW9ZLrnCKPJtoVFBx4VuQKBgQDsAiZRmaQhPOrV5pru\nTiNSlAwO21QKIhICE92v2NZ7usHwgzIoP96dsJsQSYzrm1OLdehGayGEUXCMhKCZ\nImNqMQtr8b7vqyQPWtsqCILCHNqP6/bCJaHToqFfSknhMZtidfmlVRtzsU0/qjl8\n4cRyVKckeEZKNIm9rr5FHBek+QKBgQDfL0NX65KVhFhYsdpmQH3/lpX/D5znnye5\nDPX/tzAga6QqIhFrg2EqBQryBVtUn8khNvc6CEkITcrkqJkW4xpS9wZXQK/pXfof\n09BpPG0g+2Gh9iZAyu6BfjoG7U4tlvQY9wgMHK3T+2Kd5M/B47KvHkrjGqYScGpK\nXjNOkwwYXQKBgQDdHwp968C+r4+rB5vjaOxpY3KEvPRZZiCPN8O+DSCv3oP070cg\nNO9DuYMfWHojCW3WPYt55sgJbDBSR7UcpP6WMQttgJuPfD6V8F9lW4H/kv8oV0Hk\nF1QusLIXUMg1qL/YGYbkZAALfnRNERU5r2HaaPwNDG92+RCQ2tdEcxSoKQKBgECr\ng0oAmrL0bF0W+//RBDGBQulrbr224l2+obF9NVbPmfwTbxTGNutkFq3WW4aD3lXf\nhXetWuwrDnV/XQzCtagAqDe0KMToVEfQqn0z4zNBZCL4HlF7++xN1SaYsKSJLyXk\nvtIzpTLdjs/Ns12tSuNvVafE2wZQyJvP+/HyrfiJAoGBAIr19Omu0mP4AOrgIXAB\na5u9EWW7qnTrrgMJoS5ek3+EuZ6UrcPxtuBAn90b3e8Oe/SKmBRdAK9/Y0Q4gwp+\nrWoMDQfn0S/FAEOb+o95K2vdxvT6p6r9L3oIDQAKKRg6wbq9ah5rvWzQTgPMNu6/\npZgXGoU1soeDRt9wqLz0bIRH\n-----END PRIVATE KEY-----\n",
+    "client_email": "goglobal-backup-and-upload@goglobal-backup-and-upload.iam.gserviceaccount.com",
+    "client_id": "100210703717799318613",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/goglobal-backup-and-upload%40goglobal-backup-and-upload.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
